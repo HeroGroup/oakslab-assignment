@@ -1,3 +1,5 @@
-# In order to start the app, just run the following command
+In order to start the app, just run the following command
+npm install && npm start
 
-# npm install && npm start
+database schema has been designed but not implemented
+the schema is in data/dbConnectors.ts and mongoose should installed prior to implementation
